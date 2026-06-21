@@ -1,6 +1,6 @@
 # Project Euler Solutions
 
-Notebook-based solutions and notes for selected Project Euler problems.
+Notebook-based solutions and notes for selected Project Euler problems. Certain problems that I had done years back will not be included.
 
 The focus is on mathematical reasoning, clean Python, and algorithmic problem-solving.
 
@@ -12,4 +12,4 @@ The focus is on mathematical reasoning, clean Python, and algorithmic problem-so
 
 | Problem | Topic | Status |
 |---|---|---|
-| 001 | Multiples and divisibility | In progress |
+| 004 | Largest Palindromic Product | Finished |
