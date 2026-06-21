@@ -13,3 +13,4 @@ The focus is on mathematical reasoning, clean Python, and algorithmic problem-so
 | Problem | Topic | Status |
 |---|---|---|
 | 004 | Largest Palindromic Product | Finished |
+| 007 | 10 001st Prime| In Progress |
