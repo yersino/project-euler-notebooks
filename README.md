@@ -39,7 +39,10 @@ Each notebook is self-contained and combines explanation, code, and reflection.
 |     004 | Largest palindrome product  | Finished    |
 |     007 | 10,001st prime              | In progress |
 |     008 | Largest product in a series | Finished    |
-|     013 | Large sum                   | In progress |
+|     013 | Large sum                   | Finished    |
+|     014 | Longest Collatz sequence    | In progress |
+
+TODO: add a graph for Problem 014 for the length of each sequence. 
 
 ## Why notebooks?
 
