@@ -38,7 +38,8 @@ Each notebook is self-contained and combines explanation, code, and reflection.
 | ------: | --------------------------- | ----------- |
 |     004 | Largest palindrome product  | Finished    |
 |     007 | 10,001st prime              | In progress |
-|     008 | Largest product in a series | In progress |
+|     008 | Largest product in a series | Finished    |
+|     013 | Large sum                   | In progress |
 
 ## Why notebooks?
 
