@@ -40,7 +40,8 @@ Each notebook is self-contained and combines explanation, code, and reflection.
 |     007 | 10,001st prime              | In progress |
 |     008 | Largest product in a series | Finished    |
 |     013 | Large sum                   | Finished    |
-|     014 | Longest Collatz sequence    | In progress |
+|     014 | Longest Collatz sequence    | Finished    |
+|     011 | Largest Product in a Grid   | In progress |
 
 TODO: add a graph for Problem 014 for the length of each sequence. 
 
