@@ -21,17 +21,6 @@ To avoid turning this repository into a direct answer dump, I generally link to 
 
 I also avoid publishing solutions to later Project Euler problems where public solution-sharing would go against the spirit of the site.
 
-## Structure
-
-```text
-notebooks/
-  p004_largest_palindrome_product.ipynb
-  p007_10001st_prime.ipynb
-  p008_largest_product_in_a_series.ipynb
-```
-
-Each notebook is self-contained and combines explanation, code, and reflection.
-
 ## Progress
 
 | Problem | Topic                       | Status      |
@@ -39,14 +28,14 @@ Each notebook is self-contained and combines explanation, code, and reflection.
 |     004 | Largest palindrome product  | Finished    |
 |     007 | 10,001st prime              | In progress |
 |     008 | Largest product in a series | Finished    |
+|     011 | Largest Product in a Grid   | In progress |
 |     013 | Large sum                   | Finished    |
 |     014 | Longest Collatz sequence    | Finished    |
-|     011 | Largest Product in a Grid   | In progress |
+|     018 | Maximum Path Sequence I     | Finished    |
+|     020 | Factorial Digit Sum         | In progress |
+|     026 | Reciprocal Cycles           | Finished    |
+|     054 | Poker Hands                 | In progress |
+|     067 | Maximum Path Sequence II    | Finished    |
+|     088 | Product-sum Numbers         | In progress |
 
-TODO: add a graph for Problem 014 for the length of each sequence. 
 
-## Why notebooks?
-
-I use notebooks because they let me combine mathematical reasoning, code, output, and commentary in one place. This is useful for Project Euler because many problems are not just coding exercises; they are also small lessons in number theory, combinatorics, search, optimisation, or algorithmic thinking.
-
-This notebook contains my own working notes and Python solution for a Project Euler problem. The original problem is available at the linked Project Euler page. I avoid reproducing the full problem statement where possible.
