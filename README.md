@@ -37,5 +37,6 @@ I also avoid publishing solutions to later Project Euler problems where public s
 |     054 | Poker Hands                 | In progress |
 |     067 | Maximum Path Sequence II    | Finished    |
 |     088 | Product-sum Numbers         | In progress |
-|     94  | Almost Equilateral Triangles| In progress |
+|     090 | Cube Digit Pairs            | Finished    |
+|     094 | Almost Equilateral Triangles| In progress |
 
